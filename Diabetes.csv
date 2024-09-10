@@ -1,0 +1,530 @@
+,Unnamed: 0,Age,Gender,Family_Diabetes,highBP,PhysicallyActive,BMI,Smoking,Alcohol,Sleep,SoundSleep,RegularMedicine,JunkFood,Stress,BPLevel,Pregnancies,Pdiabetes,UrinationFreq,Diabetic
+0,0,50-59,Male,no,yes,less than half an hr,28.0,no,no,8,6,yes,very often,sometimes,normal,0.0,no,not much,no
+1,1,50-59,Male,no,no,one hr or more,23.0,no,no,8,6,no,occasionally,sometimes,normal,0.0,no,not much,no
+2,2,40-49,Male,no,no,less than half an hr,27.0,no,no,8,8,no,occasionally,sometimes,normal,0.0,no,not much,no
+3,3,40-49,Male,no,yes,none,21.0,no,yes,10,10,no,occasionally,sometimes,high,0.0,no,not much,yes
+4,4,less than 40,Male,no,no,one hr or more,24.0,no,no,8,8,no,occasionally,sometimes,normal,0.0,no,not much,no
+5,5,40-49,Male,yes,no,one hr or more,23.0,no,no,7,7,no,occasionally,sometimes,normal,0.0,no,not much,no
+6,6,40-49,Male,no,no,less than half an hr,26.0,yes,no,8,7,no,occasionally,sometimes,normal,0.0,no,not much,no
+7,7,less than 40,Female,no,no,less than half an hr,21.0,no,no,6,6,no,occasionally,sometimes,normal,1.0,no,not much,no
+8,8,less than 40,Male,no,no,one hr or more,15.0,no,no,7,7,no,occasionally,very often,normal,0.0,no,not much,no
+9,9,less than 40,Female,no,no,more than half an hr,24.0,no,no,6,6,no,occasionally,sometimes,normal,2.0,no,quite often,no
+10,10,40-49,Male,yes,no,one hr or more,24.0,no,no,11,11,no,occasionally,sometimes,normal,0.0,no,not much,no
+11,11,less than 40,Male,yes,no,one hr or more,30.0,no,yes,9,8,no,occasionally,sometimes,normal,0.0,no,not much,no
+12,12,less than 40,Female,yes,no,one hr or more,24.0,no,no,4,4,yes,often,always,normal,3.0,no,quite often,yes
+13,13,less than 40,Female,yes,no,one hr or more,24.0,no,no,4,4,yes,often,always,normal,3.0,no,not much,yes
+14,14,less than 40,Female,no,no,one hr or more,20.0,no,no,6,6,no,very often,not at all,normal,0.0,no,not much,no
+15,15,40-49,Male,yes,no,none,29.0,no,no,6,6,no,occasionally,not at all,normal,0.0,no,not much,no
+16,16,60 or older,Female,no,no,none,18.0,no,no,6,6,yes,occasionally,sometimes,normal,3.0,no,quite often,yes
+17,17,less than 40,Female,no,no,one hr or more,32.0,no,no,8,8,yes,occasionally,sometimes,normal,3.0,no,not much,no
+18,18,40-49,Female,no,no,one hr or more,21.0,no,no,7,7,no,occasionally,sometimes,normal,3.0,no,quite often,no
+19,19,60 or older,Male,no,yes,none,26.0,no,no,4,4,yes,occasionally,not at all,high,0.0,no,not much,yes
+20,20,60 or older,Female,yes,no,more than half an hr,31.0,no,no,8,7,yes,occasionally,not at all,normal,3.0,no,not much,no
+21,21,60 or older,Female,yes,no,none,26.0,no,no,7,7,no,occasionally,sometimes,normal,3.0,no,not much,no
+22,22,60 or older,Male,yes,no,none,21.0,no,no,8,8,yes,occasionally,not at all,normal,0.0,no,not much,yes
+23,23,40-49,Female,yes,no,more than half an hr,28.0,no,no,8,6,yes,occasionally,always,normal,2.0,no,not much,yes
+24,24,50-59,Male,no,yes,one hr or more,24.0,no,no,8,8,yes,occasionally,sometimes,high,0.0,no,not much,yes
+25,25,40-49,Male,no,yes,more than half an hr,27.0,no,no,8,8,yes,occasionally,not at all,high,0.0,no,not much,yes
+26,26,40-49,Male,no,no,more than half an hr,21.0,no,no,6,6,yes,occasionally,sometimes,normal,0.0,no,not much,yes
+27,27,60 or older,Male,no,no,none,24.0,no,no,6,6,no,occasionally,sometimes,normal,0.0,no,not much,no
+28,28,50-59,Male,yes,no,one hr or more,38.0,no,yes,8,6,yes,occasionally,very often,normal,0.0,no,not much,yes
+29,29,50-59,Female,yes,yes,more than half an hr,40.0,no,no,9,5,yes,very often,sometimes,high,2.0,yes,not much,yes
+30,30,60 or older,Male,yes,no,none,35.0,no,no,5,5,no,occasionally,sometimes,high,0.0,no,quite often,yes
+31,31,60 or older,Female,yes,yes,none,24.0,no,no,4,4,yes,occasionally,always,high,3.0,no,quite often,yes
+32,32,40-49,Male,no,no,more than half an hr,23.0,no,no,7,4,no,often,sometimes,normal,2.0,no,not much,no
+33,33,less than 40,Male,no,no,more than half an hr,26.0,yes,yes,8,6,no,occasionally,sometimes,normal,0.0,no,not much,no
+34,34,60 or older,Female,no,yes,less than half an hr,27.0,no,no,6,6,yes,occasionally,always,high,0.0,no,quite often,yes
+35,35,less than 40,Male,no,no,less than half an hr,29.0,yes,yes,6,5,yes,often,very often,normal,0.0,no,not much,no
+36,36,50-59,Female,yes,no,none,21.0,no,no,8,8,yes,occasionally,very often,normal,0.0,no,quite often,yes
+37,37,60 or older,Male,no,no,none,31.0,no,no,6,6,no,occasionally,very often,normal,0.0,no,not much,no
+38,38,50-59,Male,no,no,one hr or more,27.0,no,no,6,4,no,occasionally,very often,normal,0.0,no,not much,no
+39,39,40-49,Male,yes,yes,less than half an hr,26.0,no,no,10,6,yes,occasionally,very often,high,0.0,no,quite often,yes
+40,40,50-59,Female,yes,no,none,21.0,no,no,8,5,yes,occasionally,sometimes,normal,0.0,no,not much,yes
+41,41,60 or older,Male,yes,no,one hr or more,26.0,no,no,6,5,yes,occasionally,not at all,normal,0.0,no,not much,yes
+42,42,50-59,Male,yes,no,one hr or more,23.0,yes,yes,5,4,yes,occasionally,very often,normal,0.0,no,not much,yes
+43,43,less than 40,Male,yes,yes,one hr or more,26.0,yes,yes,5,4,yes,often,not at all,high,0.0,no,not much,yes
+44,44,60 or older,Female,yes,yes,less than half an hr,18.0,no,no,4,3,yes,occasionally,sometimes,high,0.0,no,not much,yes
+45,45,60 or older,Female,yes,yes,less than half an hr,19.0,no,no,9,9,yes,occasionally,always,high,4.0,no,quite often,yes
+46,46,60 or older,Female,yes,yes,less than half an hr,33.0,no,no,6,5,yes,occasionally,sometimes,high,2.0,no,not much,yes
+47,47,50-59,Male,yes,yes,none,31.0,no,yes,7,6,yes,occasionally,always,high,0.0,no,not much,yes
+48,48,50-59,Male,yes,no,less than half an hr,23.0,no,no,7,7,yes,occasionally,sometimes,normal,0.0,no,not much,yes
+49,49,50-59,Female,no,yes,none,20.0,no,no,7,4,yes,occasionally,sometimes,high,1.0,no,not much,yes
+50,50,less than 40,Male,no,no,one hr or more,24.0,no,no,7,7,no,often,sometimes,normal,0.0,no,not much,no
+51,51,60 or older,Male,no,no,more than half an hr,24.0,no,no,7,7,no,occasionally,sometimes,normal,0.0,no,quite often,yes
+52,52,less than 40,Male,no,no,less than half an hr,28.0,yes,yes,4,4,no,occasionally,very often,normal,0.0,no,not much,no
+53,53,less than 40,Male,no,no,less than half an hr,23.0,yes,no,6,3,no,occasionally,very often,normal,0.0,no,not much,no
+54,54,60 or older,Male,no,yes,less than half an hr,15.0,no,no,4,4,yes,occasionally,very often,high,0.0,no,quite often,no
+55,55,less than 40,Male,no,no,less than half an hr,22.0,no,no,6,2,no,often,not at all,normal,0.0,no,quite often,no
+56,56,less than 40,Male,no,no,more than half an hr,21.0,no,no,5,5,no,very often,sometimes,normal,0.0,no,not much,no
+57,57,less than 40,Male,no,no,one hr or more,21.0,no,no,7,6,yes,often,very often,normal,0.0,no,not much,no
+58,58,50-59,Male,no,yes,less than half an hr,20.0,yes,yes,6,6,no,occasionally,very often,high,0.0,no,quite often,no
+59,59,less than 40,Male,no,no,more than half an hr,24.0,no,no,8,5,no,often,not at all,normal,0.0,no,not much,no
+60,60,less than 40,Female,no,no,one hr or more,26.0,no,no,8,6,no,occasionally,sometimes,low,0.0,no,not much,no
+61,61,less than 40,Female,no,no,less than half an hr,21.0,no,no,8,8,no,occasionally,not at all,normal,3.0,yes,not much,yes
+62,62,60 or older,Male,no,no,more than half an hr,23.0,no,yes,7,6,yes,occasionally,very often,high,0.0,no,quite often,yes
+63,63,60 or older,Male,no,no,less than half an hr,28.0,no,no,8,8,yes,occasionally,not at all,normal,0.0,no,quite often,yes
+64,64,60 or older,Male,yes,yes,less than half an hr,32.0,no,no,8,8,no,often,very often,high,0.0,no,not much,yes
+65,65,40-49,Female,yes,no,less than half an hr,33.0,no,no,6,6,no,very often,very often,normal,2.0,yes,not much,yes
+66,66,less than 40,Female,yes,no,one hr or more,24.0,no,no,8,8,no,often,sometimes,normal,0.0,no,not much,no
+67,67,50-59,Female,yes,no,less than half an hr,28.0,no,no,7,4,yes,occasionally,very often,high,0.0,no,quite often,yes
+68,68,50-59,Male,no,no,less than half an hr,30.0,no,no,7,2,no,often,always,normal,0.0,no,not much,no
+69,69,50-59,Male,yes,yes,one hr or more,30.0,yes,yes,7,7,yes,often,always,high,0.0,no,quite often,yes
+70,70,less than 40,Male,no,no,one hr or more,22.0,yes,no,9,2,no,always,always,high,0.0,yes,quite often,no
+71,71,less than 40,Male,yes,no,more than half an hr,22.0,no,no,7,5,no,often,very often,normal,0.0,no,not much,no
+72,72,60 or older,Male,yes,yes,more than half an hr,21.0,no,yes,8,4,yes,occasionally,sometimes,normal,0.0,no,quite often,no
+73,73,60 or older,Female,no,yes,one hr or more,26.0,no,no,8,6,yes,occasionally,sometimes,normal,0.0,yes,not much,yes
+74,74,50-59,Female,no,yes,less than half an hr,31.0,no,no,7,4,yes,occasionally,very often,high,0.0,no,quite often,no
+75,75,less than 40,Female,no,yes,one hr or more,30.0,no,no,7,3,no,occasionally,sometimes,normal,0.0,no,not much,no
+76,76,less than 40,Female,yes,no,one hr or more,29.0,no,no,6,6,no,often,sometimes,normal,2.0,no,quite often,no
+77,77,40-49,Female,yes,no,more than half an hr,17.0,no,no,7,7,no,very often,sometimes,normal,3.0,no,not much,no
+78,78,50-59,Female,yes,no,less than half an hr,24.0,no,no,8,5,yes,occasionally,sometimes,normal,2.0,no,not much,no
+79,79,60 or older,Male,yes,no,more than half an hr,26.0,no,yes,8,3,yes,occasionally,sometimes,normal,0.0,no,quite often,yes
+80,80,less than 40,Female,yes,no,one hr or more,27.0,no,yes,8,6,no,very often,very often,normal,0.0,no,not much,no
+81,81,40-49,Male,yes,yes,more than half an hr,21.0,no,no,6,4,yes,occasionally,sometimes,normal,0.0,no,not much,yes
+82,82,50-59,Male,yes,no,less than half an hr,32.0,no,no,8,4,yes,occasionally,sometimes,normal,0.0,no,not much,no
+83,83,40-49,Male,yes,no,more than half an hr,28.0,no,no,7,5,no,occasionally,sometimes,normal,0.0,no,quite often,no
+84,84,60 or older,Male,no,yes,less than half an hr,33.0,no,no,6,2,yes,occasionally,very often,high,0.0,no,quite often,yes
+85,85,40-49,Male,yes,no,none,24.0,no,no,8,8,no,occasionally,sometimes,normal,0.0,no,not much,yes
+86,86,60 or older,Female,yes,yes,more than half an hr,23.0,no,no,9,9,yes,occasionally,always,high,3.0,no,quite often,yes
+87,87,60 or older,Female,yes,yes,less than half an hr,27.0,no,no,7,7,yes,occasionally,sometimes,high,3.0,no,quite often,yes
+88,88,60 or older,Male,yes,yes,more than half an hr,24.0,no,yes,7,7,yes,occasionally,always,high,0.0,no,not much,yes
+89,89,less than 40,Female,yes,no,none,20.0,no,no,9,9,no,often,sometimes,normal,0.0,no,not much,no
+90,90,less than 40,Male,yes,no,one hr or more,28.0,yes,yes,7,7,no,often,not at all,normal,0.0,no,not much,yes
+91,91,less than 40,Female,no,no,less than half an hr,19.0,no,no,8,8,no,occasionally,sometimes,normal,0.0,no,not much,no
+92,92,less than 40,Male,no,no,less than half an hr,24.0,yes,yes,10,7,no,always,always,normal,0.0,no,not much,no
+93,93,less than 40,Male,yes,yes,more than half an hr,27.0,no,no,7,5,no,occasionally,sometimes,High,0.0,no,not much,no
+94,94,less than 40,Male,no,yes,less than half an hr,28.0,yes,yes,8,4,no,always,always,normal,0.0,no,not much,no
+95,95,less than 40,Male,yes,yes,less than half an hr,28.0,no,no,6,2,no,occasionally,not at all,high,0.0,no,quite often,no
+96,96,less than 40,Male,no,yes,one hr or more,17.0,no,no,8,0,no,occasionally,not at all,normal ,0.0,no,not much,no
+97,97,less than 40,Male,no,yes,less than half an hr,26.0,no,no,6,4,no,very often,sometimes,normal,0.0,no,quite often,no
+98,98,less than 40,Male,yes,no,more than half an hr,24.0,yes,yes,8,8,no,occasionally,sometimes,High,0.0,no,not much,no
+99,99,less than 40,Male,yes,no,less than half an hr,23.0,no,no,5,5,no,always,sometimes,normal,0.0,no,not much,no
+100,100,less than 40,Male,yes,no,less than half an hr,23.0,no,no,5,5,no,occasionally,not at all,normal,0.0,no,not much,no
+101,101,less than 40,Female,yes,no,more than half an hr,29.0,no,no,6,3,no,occasionally,sometimes,normal,0.0,no,quite often,no
+102,102,less than 40,Female,no,no,none,19.0,no,no,9,5,no,very often,sometimes,normal,2.0,no,not much,no
+103,103,less than 40,Male,no,no,less than half an hr,23.0,yes,yes,8,6,no,very often,sometimes,normal,0.0,no,not much,no
+104,104,40-49,Male,yes,no,less than half an hr,24.0,no,no,7,5,no,occasionally,sometimes,normal,0.0,no,not much,no
+105,105,less than 40,Female,yes,no,less than half an hr,25.0,no,no,8,4,yes,occasionally,sometimes,normal,0.0,no,not much,no
+106,106,50-59,Female,yes,no,less than half an hr,35.0,no,no,8,5,yes,often,very often,normal,2.0,no,quite often,yes
+107,107,40-49,Female,yes,yes,more than half an hr,33.0,no,no,7,2,yes,occasionally,sometimes,High,0.0,no,quite often,yes
+108,108,40-49,Female,yes,no,one hr or more,34.0,no,no,6,2,yes,always,very often,normal,0.0,no,quite often,yes
+109,109,50-59,Male,yes,yes,more than half an hr,36.0,yes,no,6,4,yes,often,very often,high,0.0,no,not much,yes
+110,110,60 or older,Male,no,no,less than half an hr,30.0,no,yes,6,2,yes,often,always,High,0.0,no,not much,yes
+111,111,less than 40,Male,yes,no,one hr or more,28.0,yes,yes,5,3,yes,always,always,normal,0.0,no,quite often,yes
+112,112,40-49,Male,yes,yes,less than half an hr,35.0,yes,yes,5,2,yes,very often,sometimes,high,0.0,no,not much,yes
+113,113,50-59,Female,no,yes,one hr or more,22.0,no,no,8,5,yes,occasionally,always,normal,3.0,no,not much,yes
+114,114,less than 40,Male,no,no,less than half an hr,30.0,no,yes,8,8,yes,occasionally,sometimes,normal,0.0,no,not much,yes
+115,115,40-49,Male,yes,yes,one hr or more,22.0,no,no,7,6,yes,occasionally,sometimes,High,0.0,no,not much,yes
+116,116,less than 40,Male,yes,no,more than half an hr,22.0,no,no,8,6,no,often,sometimes,normal,0.0,no,not much,yes
+117,117,60 or older,Male,yes,yes,more than half an hr,27.0,no,no,6,5,yes,occasionally,sometimes,high,0.0,no,quite often,yes
+118,118,60 or older,Female,yes,yes,one hr or more,29.0,no,no,7,4,yes,occasionally,sometimes,high,2.0,no,quite often,yes
+119,119,50-59,Male,yes,yes,less than half an hr,28.0,no,no,8,6,yes,very often,sometimes,normal,0.0,no,not much,yes
+120,120,40-49,Male,no,no,one hr or more,24.0,no,no,6,6,no,occasionally,sometimes,normal,0.0,no,not much,no
+121,121,40-49,Male,yes,no,less than half an hr,27.0,no,no,8,8,no,occasionally,sometimes,normal,0.0,no,not much,yes
+122,122,40-49,Male,yes,yes,none,21.0,no,yes,10,10,no,occasionally,sometimes,high,0.0,no,not much,yes
+123,123,less than 40,Male,no,no,one hr or more,24.0,no,no,8,8,no,occasionally,sometimes,normal,0.0,no,not much,no
+124,124,less than 40,Male,no,no,less than half an hr,20.0,no,no,7,7,yes,occasionally,sometimes,low,0.0,no,not much,no
+125,125,40-49,Male,yes,no,one hr or more,23.0,no,no,7,7,no,occasionally,sometimes,normal,0.0,no,not much,yes
+126,126,less than 40,Male,no,no,more than half an hr,20.0,no,no,8,8,no,occasionally,sometimes,normal,0.0,no,not much,no
+127,127,less than 40,Male,no,no,none,20.0,no,no,7,7,no,occasionally,not at all,normal,0.0,no,not much,no
+128,128,less than 40,Male,no,no,one hr or more,15.0,no,no,7,7,no,occasionally,very often,normal,0.0,no,not much,no
+129,129,40-49,Female,yes,no,none,34.0,no,no,6,6,no,occasionally,sometimes,normal,3.0,no,not much,no
+130,130,50-59,Male,yes,no,more than half an hr,22.0,no,no,7,6,no,occasionally,sometimes,normal,0.0,no,not much,yes
+131,131,less than 40,Female,no,no,more than half an hr,24.0,no,no,6,6,no,occasionally,sometimes,normal,2.0,no,quite often,no
+132,132,less than 40,Female,yes,no,one hr or more,24.0,no,no,4,4,yes,often,always,normal,3.0,no,quite often,yes
+133,133,less than 40,Female,yes,no,one hr or more,24.0,no,no,4,4,yes,often,always,normal,3.0,no,not much,yes
+134,134,less than 40,Female,no,no,one hr or more,20.0,no,no,6,6,no,very often,not at all,normal,0.0,no,not much,no
+135,135,50-59,Male,no,no,one hr or more,27.0,no,no,7,7,no,very often,not at all,normal,0.0,no,not much,yes
+136,136,60 or older,Female,no,no,none,18.0,no,no,6,6,yes,occasionally,sometimes,normal,3.0,no,quite often,yes
+137,137,60 or older,Male,no,yes,none,26.0,no,no,4,4,yes,occasionally,not at all,high,0.0,no,not much,yes
+138,138,60 or older,Female,yes,no,more than half an hr,31.0,no,no,8,7,yes,occasionally,not at all,normal,3.0,no,not much,yes
+139,139,60 or older,Female,yes,no,none,26.0,no,no,7,7,no,occasionally,sometimes,normal,3.0,no,not much,yes
+140,140,60 or older,Male,yes,no,none,21.0,no,no,8,8,yes,occasionally,not at all,normal,0.0,no,not much,yes
+141,141,40-49,Female,yes,no,more than half an hr,28.0,no,no,8,6,yes,occasionally,always,normal,2.0,no,not much,yes
+142,142,50-59,Male,no,yes,one hr or more,24.0,no,no,8,8,yes,occasionally,sometimes,high,0.0,no,not much,yes
+143,143,40-49,Male,no,yes,more than half an hr,27.0,no,no,8,8,yes,occasionally,not at all,high,0.0,no,not much,yes
+144,144,40-49,Male,no,no,more than half an hr,21.0,no,no,6,6,yes,occasionally,sometimes,normal,0.0,no,not much,yes
+145,145,60 or older,Male,no,no,none,27.0,no,no,6,6,no,occasionally,sometimes,normal,0.0,no,not much,no
+146,146,60 or older,Male,no,no,none,24.0,no,no,6,6,no,occasionally,sometimes,normal,0.0,no,not much,yes
+147,147,less than 40,Male,yes,no,less than half an hr,21.0,no,no,6,6,no,occasionally,not at all,normal,0.0,no,not much,no
+148,148,50-59,Male,yes,no,one hr or more,38.0,no,yes,8,6,yes,occasionally,very often,normal,0.0,no,not much,yes
+149,149,50-59,Female,yes,yes,more than half an hr,40.0,no,no,9,5,yes,very often,sometimes,high,2.0,yes,not much,yes
+150,150,60 or older,Male,yes,no,none,35.0,no,no,5,5,no,occasionally,sometimes,high,0.0,no,quite often,yes
+151,151,60 or older,Female,yes,yes,none,24.0,no,no,4,4,yes,occasionally,always,high,3.0,no,quite often,yes
+152,152,60 or older,Male,no,yes,less than half an hr,19.0,no,yes,6,6,yes,often,sometimes,high,1.0,no,not much,yes
+153,153,less than 40,Male,no,no,more than half an hr,30.0,yes,yes,5,5,yes,often,not at all,normal,1.0,no,not much,no
+154,154,60 or older,Female,no,yes,less than half an hr,27.0,no,no,6,6,yes,occasionally,always,high,0.0,no,quite often,yes
+155,155,50-59,Male,no,yes,less than half an hr,19.0,no,yes,6,6,yes,occasionally,very often,high,0.0,no,not much,yes
+156,156,50-59,Female,yes,no,none,21.0,no,no,8,8,yes,occasionally,very often,normal,0.0,no,quite often,yes
+157,157,60 or older,Male,no,no,none,31.0,no,no,6,6,no,occasionally,very often,normal,0.0,no,not much,no
+158,158,less than 40,Male,yes,no,more than half an hr,22.0,no,no,8,8,no,occasionally,very often,normal,0.0,no,not much,no
+159,159,less than 40,Male,yes,no,none,19.0,no,yes,8,8,no,occasionally,sometimes,normal,0.0,no,not much,no
+160,160,40-49,Male,yes,yes,less than half an hr,26.0,no,no,10,6,yes,occasionally,very often,high,0.0,no,quite often,yes
+161,161,50-59,Female,yes,no,none,21.0,no,no,8,5,yes,occasionally,sometimes,normal,0.0,no,not much,yes
+162,162,60 or older,Male,yes,no,one hr or more,26.0,no,no,6,5,yes,occasionally,not at all,normal,0.0,no,not much,yes
+163,163,50-59,Male,yes,no,one hr or more,23.0,yes,yes,5,4,yes,occasionally,very often,normal,0.0,no,not much,yes
+164,164,less than 40,Male,yes,yes,one hr or more,26.0,yes,yes,5,4,yes,often,not at all,high,0.0,no,not much,yes
+165,165,60 or older,Female,yes,yes,less than half an hr,18.0,no,no,4,3,yes,occasionally,sometimes,high,0.0,no,not much,yes
+166,166,60 or older,Female,yes,yes,less than half an hr,19.0,no,no,9,9,yes,occasionally,always,high,4.0,no,quite often,yes
+167,167,60 or older,Female,yes,yes,less than half an hr,33.0,no,no,6,5,yes,occasionally,sometimes,high,2.0,no,not much,yes
+168,168,50-59,Male,yes,yes,none,31.0,no,yes,7,6,yes,occasionally,always,high,0.0,no,not much,yes
+169,169,40-49,Female,no,no,none,23.0,no,no,7,7,no,often,very often,normal,1.0,no,not much,no
+170,170,50-59,Male,yes,no,less than half an hr,23.0,no,no,7,7,yes,occasionally,sometimes,normal,0.0,no,not much,yes
+171,171,50-59,Female,no,yes,none,20.0,no,no,7,4,yes,occasionally,sometimes,high,1.0,no,not much,yes
+172,172,50-59,Male,no,no,more than half an hr,28.0,no,yes,7,4,no,occasionally,sometimes,high,0.0,no,not much,yes
+173,173,60 or older,Male,yes,yes,less than half an hr,26.0,no,yes,6,6,yes,occasionally,not at all,high,0.0,no,not much,yes
+174,174,less than 40,Male,no,no,one hr or more,24.0,no,no,7,7,no,often,sometimes,normal,0.0,no,not much,no
+175,175,60 or older,Male,no,no,more than half an hr,24.0,no,no,7,7,no,occasionally,sometimes,normal,0.0,no,quite often,yes
+176,176,less than 40,Female,no,no,less than half an hr,17.0,no,no,4,4,no,occasionally,sometimes,normal,0.0,no,quite often,no
+177,177,less than 40,Male,no,no,less than half an hr,23.0,yes,no,6,3,no,occasionally,very often,normal,0.0,no,not much,no
+178,178,less than 40,Male,no,no,less than half an hr,24.0,no,no,6,6,no,occasionally,not at all,normal,0.0,no,not much,no
+179,179,60 or older,Male,no,yes,less than half an hr,15.0,no,no,4,4,yes,occasionally,very often,high,0.0,no,quite often,no
+180,180,less than 40,Male,no,no,less than half an hr,22.0,no,no,6,2,no,often,not at all,normal,0.0,no,quite often,no
+181,181,less than 40,Male,yes,no,more than half an hr,23.0,no,no,7,3,no,occasionally,sometimes,high,0.0,no,not much,no
+182,182,less than 40,Male,no,no,one hr or more,18.0,no,no,8,4,no,occasionally,sometimes,normal,0.0,no,quite often,no
+183,183,less than 40,Male,yes,no,one hr or more,21.0,no,no,7,6,yes,often,very often,normal,0.0,no,not much,no
+184,184,less than 40,Male,yes,no,one hr or more,21.0,no,no,9,6,no,very often,sometimes,normal,0.0,no,not much,no
+185,185,50-59,Male,no,yes,less than half an hr,20.0,yes,yes,6,6,no,occasionally,very often,high,0.0,no,quite often,yes
+186,186,less than 40,Female,no,no,less than half an hr,21.0,no,no,8,8,no,occasionally,sometimes,normal,0.0,no,quite often,no
+187,187,50-59,Male,no,no,less than half an hr,26.0,no,no,6,6,no,occasionally,sometimes,normal,0.0,no,not much,no
+188,188,50-59,Female,no,no,less than half an hr,27.0,no,no,8,6,no,occasionally,sometimes,low,1.0,no,not much,no
+189,189,less than 40,Female,no,no,less than half an hr,21.0,no,no,8,8,no,occasionally,not at all,normal,3.0,yes,not much,yes
+190,190,40-49,Female,no,no,less than half an hr,22.0,no,no,8,8,no,occasionally,not at all,normal,3.0,no,not much,no
+191,191,60 or older,Male,no,no,more than half an hr,23.0,no,yes,7,6,yes,occasionally,very often,high,0.0,no,quite often,yes
+192,192,60 or older,Male,no,no,less than half an hr,28.0,no,no,8,8,yes,occasionally,not at all,normal,0.0,no,quite often,yes
+193,193,60 or older,Male,yes,yes,less than half an hr,32.0,no,no,8,8,no,often,very often,high,0.0,no,not much,yes
+194,194,40-49,Female,yes,no,less than half an hr,33.0,no,no,6,6,no,very often,very often,normal,2.0,yes,not much,yes
+195,195,less than 40,Female,yes,no,one hr or more,24.0,no,no,8,8,no,often,sometimes,normal,0.0,no,not much,no
+196,196,50-59,Female,yes,no,less than half an hr,28.0,no,no,7,4,yes,occasionally,very often,high,0.0,no,quite often,yes
+197,197,50-59,Male,yes,yes,one hr or more,30.0,yes,yes,7,7,yes,often,always,high,0.0,no,quite often,yes
+198,198,less than 40,Female,yes,no,more than half an hr,27.0,no,no,7,6,no,occasionally,not at all,normal,0.0,no,not much,no
+199,199,less than 40,Female,no,no,more than half an hr,23.0,no,no,5,4,no,often,very often,normal,0.0,no,not much,no
+200,200,less than 40,Male,yes,no,more than half an hr,22.0,no,no,7,5,no,often,very often,normal,0.0,no,not much,no
+201,201,60 or older,Male,yes,yes,more than half an hr,21.0,no,yes,8,4,yes,occasionally,sometimes,normal,0.0,no,quite often,no
+202,202,60 or older,Female,no,yes,one hr or more,26.0,no,no,8,6,yes,occasionally,sometimes,normal,0.0,no,not much,yes
+203,203,50-59,Female,yes,yes,none,28.0,no,no,6,3,yes,occasionally,always,high,2.0,no,not much,yes
+204,204,less than 40,Female,no,yes,one hr or more,30.0,no,no,7,3,no,occasionally,sometimes,normal,0.0,no,not much,no
+205,205,less than 40,Female,yes,no,one hr or more,29.0,no,no,6,6,no,often,sometimes,normal,2.0,no,quite often,no
+206,206,40-49,Female,yes,no,more than half an hr,17.0,no,no,7,7,no,very often,sometimes,normal,3.0,no,not much,no
+207,207,50-59,Female,yes,no,less than half an hr,24.0,no,no,8,5,yes,occasionally,sometimes,normal,2.0,no,not much,no
+208,208,60 or older,Male,yes,no,more than half an hr,26.0,no,yes,8,3,yes,occasionally,sometimes,normal,0.0,no,quite often,yes
+209,209,less than 40,Female,yes,no,one hr or more,27.0,no,yes,8,6,no,very often,very often,normal,0.0,no,not much,no
+210,210,40-49,Male,yes,yes,more than half an hr,21.0,no,no,6,4,yes,occasionally,sometimes,normal,0.0,no,not much,yes
+211,211,40-49,Female,yes,yes,less than half an hr,26.0,no,no,7,4,no,occasionally,very often,high,0.0,no,quite often,no
+212,212,less than 40,Male,no,no,more than half an hr,22.0,no,no,6,6,no,occasionally,sometimes,low,0.0,no,not much,no
+213,213,less than 40,Male,yes,no,more than half an hr,21.0,yes,no,8,8,no,occasionally,very often,normal,0.0,no,not much,no
+214,214,less than 40,Female,yes,no,one hr or more,26.0,no,no,7,5,no,often,sometimes,low,0.0,no,not much,no
+215,215,less than 40,Male,no,no,less than half an hr,26.0,no,yes,6,4,no,occasionally,very often,normal,0.0,no,not much,no
+216,216,50-59,Male,yes,no,less than half an hr,32.0,no,no,8,4,yes,occasionally,sometimes,normal,0.0,no,not much,yes
+217,217,50-59,Female,no,yes,more than half an hr,42.0,no,no,7,3,yes,occasionally,always,high,0.0,no,not much,no
+218,218,less than 40,Male,yes,no,less than half an hr,33.0,no,no,8,4,no,occasionally,sometimes,normal,0.0,no,not much,no
+219,219,less than 40,Male,no,no,one hr or more,23.0,no,no,7,5,no,occasionally,sometimes,normal,0.0,no,not much,no
+220,220,50-59,Male,yes,yes,more than half an hr,27.0,no,yes,7,5,no,occasionally,sometimes,high,0.0,no,not much,no
+221,221,50-59,Female,no,no,more than half an hr,28.0,no,no,7,3,no,occasionally,sometimes,normal,0.0,no,quite often,no
+222,222,less than 40,Female,no,no,less than half an hr,28.0,no,no,6,3,no,occasionally,not at all,normal,0.0,no,quite often,no
+223,223,less than 40,Female,no,no,more than half an hr,33.0,no,no,8,4,no,occasionally,sometimes,normal,0.0,no,quite often,no
+224,224,less than 40,Male,no,no,more than half an hr,33.0,no,no,8,4,no,occasionally,sometimes,normal,0.0,no,not much,no
+225,225,50-59,Female,no,yes,more than half an hr,33.0,no,no,6,4,yes,occasionally,sometimes,high,0.0,no,quite often,yes
+226,226,less than 40,Female,no,no,more than half an hr,33.0,no,no,7,4,no,often,not at all,normal,0.0,no,quite often,no
+227,227,40-49,Female,no,no,less than half an hr,38.0,no,no,6,4,no,occasionally,sometimes,normal,0.0,no,quite often,no
+228,228,40-49,Female,yes,no,more than half an hr,36.0,no,no,7,3,yes,occasionally,sometimes,normal,0.0,no,quite often,no
+229,229,60 or older,Female,yes,no,less than half an hr,38.0,no,no,5,2,yes,occasionally,very often,high,0.0,no,quite often,yes
+230,230,60 or older,Male,no,yes,less than half an hr,33.0,no,no,6,2,yes,occasionally,very often,high,0.0,no,quite often,yes
+231,231,less than 40,Female,no,no,less than half an hr,33.0,no,no,8,3,no,occasionally,sometimes,normal,0.0,no,quite often,no
+232,232,less than 40,Male,yes,no,less than half an hr,32.0,no,no,6,4,no,often,sometimes,normal,0.0,no,quite often,no
+233,233,40-49,Male,yes,no,none,24.0,no,no,8,8,no,occasionally,sometimes,normal,0.0,no,not much,yes
+234,234,60 or older,Female,yes,yes,more than half an hr,23.0,no,no,9,9,yes,occasionally,always,high,3.0,no,quite often,yes
+235,235,60 or older,Female,yes,yes,less than half an hr,27.0,no,no,7,7,yes,occasionally,sometimes,high,3.0,no,quite often,yes
+236,236,60 or older,Male,yes,yes,more than half an hr,24.0,no,yes,7,7,yes,occasionally,always,high,0.0,no,not much,yes
+237,237,less than 40,Female,yes,no,none,18.0,no,no,8,8,yes,often,sometimes,normal,0.0,no,not much,no
+238,238,less than 40,Female,yes,no,none,20.0,no,no,9,9,no,often,sometimes,normal,0.0,no,not much,no
+239,239,less than 40,Female,no,no,more than half an hr,19.0,no,no,7,7,no,occasionally,sometimes,normal,0.0,no,not much,no
+240,240,less than 40,Male,yes,no,one hr or more,28.0,yes,yes,7,7,no,often,not at all,normal,0.0,no,not much,yes
+241,241,less than 40,Male,no,no,more than half an hr,25.0,yes,yes,7,5,no,often,sometimes,normal,0.0,no,quite often,no
+242,242,less than 40,Male,no,no,less than half an hr,25.0,no,yes,7,7,no,often,sometimes,normal,0.0,no,not much,no
+243,243,less than 40,Male,yes,yes,more than half an hr,27.0,no,no,7,5,no,occasionally,sometimes,high,0.0,no,not much,no
+244,244,less than 40,Female,yes,no,less than half an hr,21.0,no,no,8,7,no,often,sometimes,normal,0.0,no,not much,no
+245,245,less than 40,Male,no,no,one hr or more,25.0,no,no,6,6,no,always,always,normal,0.0,no,not much,no
+246,246,less than 40,Male,yes,yes,less than half an hr,28.0,no,no,6,2,no,occasionally,not at all,high,0.0,no,quite often,no
+247,247,less than 40,Male,no,yes,one hr or more,17.0,no,no,8,0,no,occasionally,not at all,normal,0.0,no,not much,no
+248,248,less than 40,Male,yes,no,less than half an hr,29.0,no,no,8,7,no,often,sometimes,low,0.0,no,not much,no
+249,249,less than 40,Male,yes,yes,more than half an hr,29.0,no,yes,6,4,no,occasionally,sometimes,normal,0.0,no,quite often,no
+250,250,less than 40,Male,yes,no,less than half an hr,23.0,no,no,5,5,no,always,sometimes,normal,0.0,no,not much,no
+251,251,less than 40,Female,yes,no,more than half an hr,29.0,no,no,6,3,no,occasionally,sometimes,normal,0.0,no,quite often,no
+252,252,less than 40,Female,no,no,none,19.0,no,no,9,5,no,very often,sometimes,normal,2.0,no,not much,no
+253,253,less than 40,Female,yes,no,less than half an hr,25.0,no,no,8,4,yes,occasionally,sometimes,normal,0.0,no,not much,no
+254,254,50-59,Female,yes,no,less than half an hr,35.0,no,no,8,5,yes,often,very often,normal,2.0,no,quite often,yes
+255,255,40-49,Female,yes,yes,more than half an hr,33.0,no,no,7,2,yes,occasionally,sometimes,high,0.0,no,quite often,yes
+256,256,40-49,Female,yes,no,one hr or more,34.0,no,no,6,2,yes,always,very often,normal,0.0,no,quite often,yes
+257,257,50-59,Male,yes,yes,more than half an hr,36.0,yes,no,6,4,yes,often,very often,high,0.0,no,not much,yes
+258,258,60 or older,Male,no,no,less than half an hr,30.0,no,yes,6,2,yes,often,always,high,0.0,no,not much,yes
+259,259,less than 40,Male,yes,no,one hr or more,28.0,yes,yes,5,3,yes,always,always,normal,0.0,no,quite often,yes
+260,260,40-49,Male,yes,yes,less than half an hr,35.0,yes,yes,5,2,yes,very often,sometimes,high,0.0,no,not much,yes
+261,261,50-59,Female,no,yes,one hr or more,22.0,no,no,8,5,yes,occasionally,always,normal,3.0,no,not much,yes
+262,262,less than 40,Male,no,no,less than half an hr,30.0,no,yes,8,8,yes,occasionally,sometimes,normal,0.0,no,not much,yes
+263,263,40-49,Male,yes,yes,one hr or more,22.0,no,no,7,6,yes,occasionally,sometimes,high,0.0,no,not much,yes
+264,264,less than 40,Male,yes,no,more than half an hr,22.0,no,no,8,6,no,often,sometimes,normal,0.0,no,not much,yes
+265,265,60 or older,Male,yes,yes,more than half an hr,27.0,no,no,6,5,yes,occasionally,sometimes,high,0.0,no,quite often,yes
+266,266,60 or older,Male,no,yes,none,23.0,no,no,6,5,yes,occasionally,sometimes,high,0.0,no,not much,yes
+267,267,60 or older,Male,no,yes,less than half an hr,27.0,no,yes,6,5,yes,occasionally,very often,high,0.0,no,not much,yes
+268,268,60 or older,Female,yes,yes,one hr or more,29.0,no,no,7,4,yes,occasionally,sometimes,high,2.0,no,quite often,yes
+269,269,50-59,Male,no,yes,one hr or more,39.0,no,no,8,6,no,occasionally,sometimes,high,0.0,no,not much,no
+270,270,40-49,Male,no,no,one hr or more,24.0,no,no,6,6,no,occasionally,sometimes,normal,0.0,no,not much,no
+271,271,50-59,Male,no,no,one hr or more,23.0,no,no,8,6,no,occasionally,sometimes,normal,0.0,no,not much,yes
+272,272,40-49,Male,no,yes,none,21.0,no,yes,10,10,no,occasionally,sometimes,high,0.0,no,not much,yes
+273,273,less than 40,Male,no,no,more than half an hr,20.0,no,no,8,8,no,occasionally,sometimes,normal,0.0,no,not much,no
+274,274,less than 40,Male,no,no,one hr or more,15.0,no,no,7,7,no,occasionally,very often,normal,0.0,no,not much,no
+275,275,40-49,Female,yes,no,none,34.0,no,no,6,6,no,occasionally,sometimes,normal,3.0,no,not much,no
+276,276,50-59,Male,yes,no,more than half an hr,22.0,no,no,7,6,no,occasionally,sometimes,normal,0.0,no,not much,no
+277,277,less than 40,Female,no,no,more than half an hr,24.0,no,no,6,6,no,occasionally,sometimes,normal,2.0,no,quite often,no
+278,278,less than 40,Female,yes,no,one hr or more,24.0,no,no,4,4,yes,often,always,normal,3.0,no,quite often,yes
+279,279,less than 40,Female,yes,no,one hr or more,24.0,no,no,4,4,yes,often,always,normal,3.0,no,not much,yes
+280,280,less than 40,Female,no,no,one hr or more,20.0,no,no,9,9,no,occasionally,sometimes,normal,2.0,no,not much,no
+281,281,less than 40,Female,no,no,more than half an hr,21.0,no,no,7,7,no,often,not at all,normal,0.0,no,not much,no
+282,282,50-59,Male,no,no,one hr or more,27.0,no,no,7,7,no,very often,not at all,normal,0.0,no,not much,no
+283,283,60 or older,Female,no,no,none,18.0,no,no,6,6,yes,occasionally,sometimes,normal,3.0,no,quite often,yes
+284,284,less than 40,Female,no,no,one hr or more,32.0,no,no,8,8,yes,occasionally,sometimes,normal,3.0,no,not much,no
+285,285,60 or older,Male,no,yes,none,26.0,no,no,4,4,yes,occasionally,not at all,high,0.0,no,not much,yes
+286,286,60 or older,Female,yes,no,more than half an hr,31.0,no,no,8,7,yes,occasionally,not at all,normal,3.0,no,not much,yes
+287,287,60 or older,Male,yes,no,none,21.0,no,no,8,8,yes,occasionally,not at all,normal,0.0,no,not much,yes
+288,288,40-49,Female,yes,no,more than half an hr,28.0,no,no,8,6,yes,occasionally,always,normal,2.0,no,not much,yes
+289,289,50-59,Male,no,yes,one hr or more,24.0,no,no,8,8,yes,occasionally,sometimes,high,0.0,no,not much,yes
+290,290,40-49,Male,no,yes,more than half an hr,27.0,no,no,8,8,yes,occasionally,not at all,high,0.0,no,not much,yes
+291,291,40-49,Male,no,no,more than half an hr,21.0,no,no,6,6,yes,occasionally,sometimes,normal,0.0,no,not much,yes
+292,292,60 or older,Male,no,no,none,27.0,no,no,6,6,no,occasionally,sometimes,normal,0.0,no,not much,no
+293,293,60 or older,Male,no,no,none,24.0,no,no,6,6,no,occasionally,sometimes,normal,0.0,no,not much,yes
+294,294,40-49,Male,yes,no,less than half an hr,21.0,no,no,6,6,no,occasionally,sometimes,low,0.0,no,not much,no
+295,295,50-59,Male,yes,no,one hr or more,38.0,no,yes,8,6,yes,occasionally,very often,normal,0.0,no,not much,yes
+296,296,50-59,Female,yes,yes,more than half an hr,40.0,no,no,9,5,yes,very often,sometimes,high,2.0,yes,not much,yes
+297,297,60 or older,Male,yes,no,none,35.0,no,no,5,5,no,occasionally,sometimes,high,0.0,no,quite often,yes
+298,298,60 or older,Female,yes,yes,none,24.0,no,no,4,4,yes,occasionally,always,high,3.0,no,quite often,yes
+299,299,60 or older,Male,no,no,none,18.0,no,no,5,5,no,occasionally,sometimes,normal,0.0,no,not much,no
+300,300,60 or older,Female,no,yes,less than half an hr,27.0,no,no,6,6,yes,occasionally,always,high,0.0,no,quite often,yes
+301,301,less than 40,Male,no,no,none,18.0,yes,yes,7,6,no,occasionally,very often,normal,0.0,no,not much,no
+302,302,less than 40,Male,no,no,less than half an hr,29.0,yes,yes,6,5,yes,often,very often,normal,0.0,no,not much,no
+303,303,50-59,Female,yes,no,none,21.0,no,no,8,8,yes,occasionally,very often,normal,0.0,no,quite often,yes
+304,304,less than 40,Male,no,no,none,24.0,no,no,10,10,no,occasionally,not at all,normal,0.0,no,not much,no
+305,305,60 or older,Male,no,no,none,31.0,no,no,6,6,no,occasionally,very often,normal,0.0,no,not much,yes
+306,306,less than 40,Male,yes,no,none,19.0,no,yes,8,8,no,occasionally,sometimes,normal,0.0,no,not much,no
+307,307,50-59,Male,no,no,one hr or more,27.0,no,no,6,4,no,occasionally,very often,normal,0.0,no,not much,no
+308,308,40-49,Male,yes,yes,less than half an hr,26.0,no,no,10,6,yes,occasionally,very often,high,0.0,no,quite often,yes
+309,309,50-59,Female,yes,no,none,21.0,no,no,8,5,yes,occasionally,sometimes,normal,0.0,no,not much,yes
+310,310,60 or older,Male,yes,no,one hr or more,26.0,no,no,6,5,yes,occasionally,not at all,normal,0.0,no,not much,yes
+311,311,50-59,Male,yes,no,one hr or more,23.0,yes,yes,5,4,yes,occasionally,very often,normal,0.0,no,not much,yes
+312,312,less than 40,Male,yes,yes,one hr or more,26.0,yes,yes,5,4,yes,often,not at all,high,0.0,no,not much,yes
+313,313,60 or older,Female,yes,yes,less than half an hr,18.0,no,no,4,3,yes,occasionally,sometimes,high,0.0,no,not much,yes
+314,314,60 or older,Female,yes,yes,less than half an hr,19.0,no,no,9,9,yes,occasionally,always,high,4.0,no,quite often,yes
+315,315,50-59,Male,yes,no,none,24.0,no,yes,7,7,no,occasionally,always,normal,0.0,no,not much,no
+316,316,60 or older,Female,yes,yes,less than half an hr,33.0,no,no,6,5,yes,occasionally,sometimes,high,2.0,no,not much,yes
+317,317,50-59,Male,yes,yes,none,31.0,no,yes,7,6,yes,occasionally,always,high,0.0,no,not much,yes
+318,318,50-59,Male,yes,no,less than half an hr,23.0,no,no,7,7,yes,occasionally,sometimes,normal,0.0,no,not much,yes
+319,319,50-59,Female,no,yes,none,20.0,no,no,7,4,yes,occasionally,sometimes,high,1.0,no,not much,yes
+320,320,60 or older,Male,yes,yes,less than half an hr,26.0,no,yes,6,6,yes,occasionally,not at all,high,0.0,no,not much,no
+321,321,less than 40,Male,no,no,one hr or more,24.0,no,no,7,7,no,often,sometimes,normal,0.0,no,not much,no
+322,322,60 or older,Male,no,no,more than half an hr,24.0,no,no,7,7,no,occasionally,sometimes,normal,0.0,no,quite often,yes
+323,323,less than 40,Male,no,no,less than half an hr,23.0,yes,no,6,3,no,occasionally,very often,normal,0.0,no,not much,no
+324,324,less than 40,Male,no,no,less than half an hr,24.0,no,no,6,6,no,occasionally,not at all,normal,0.0,no,not much,no
+325,325,less than 40,Female,no,no,less than half an hr,19.0,no,no,7,3,yes,occasionally,sometimes,normal,1.0,no,not much,no
+326,326,60 or older,Male,no,yes,less than half an hr,15.0,no,no,4,4,yes,occasionally,very often,high,0.0,no,quite often,no
+327,327,less than 40,Male,no,no,one hr or more,18.0,no,no,8,4,no,occasionally,sometimes,normal,0.0,no,quite often,no
+328,328,less than 40,Male,no,no,one hr or more,21.0,no,no,7,6,yes,often,very often,normal,0.0,no,not much,no
+329,329,less than 40,Male,yes,no,one hr or more,21.0,no,no,9,6,no,very often,sometimes,normal,0.0,no,not much,no
+330,330,less than 40,Male,no,no,one hr or more,22.0,no,no,5,2,no,occasionally,sometimes,normal,0.0,no,not much,no
+331,331,50-59,Female,no,no,less than half an hr,27.0,no,no,8,6,no,occasionally,sometimes,low,1.0,no,not much,no
+332,332,less than 40,Female,no,no,one hr or more,26.0,no,no,8,6,no,occasionally,sometimes,low,0.0,no,not much,no
+333,333,less than 40,Female,no,no,less than half an hr,21.0,no,no,8,8,no,occasionally,not at all,normal,3.0,no,not much,yes
+334,334,40-49,Female,no,no,less than half an hr,22.0,no,no,8,8,no,occasionally,not at all,normal,3.0,no,not much,no
+335,335,60 or older,Male,no,no,more than half an hr,23.0,no,yes,7,6,yes,occasionally,very often,high,0.0,no,quite often,yes
+336,336,60 or older,Male,no,no,less than half an hr,28.0,no,no,8,8,yes,occasionally,not at all,normal,0.0,no,quite often,yes
+337,337,60 or older,Male,yes,yes,less than half an hr,32.0,no,no,8,8,no,often,very often,high,0.0,no,not much,yes
+338,338,40-49,Female,yes,no,less than half an hr,33.0,no,no,6,6,no,very often,very often,normal,2.0,yes,not much,yes
+339,339,50-59,Female,yes,no,less than half an hr,28.0,no,no,7,4,yes,occasionally,very often,high,0.0,no,quite often,yes
+340,340,50-59,Male,yes,yes,one hr or more,30.0,yes,yes,7,7,yes,often,always,high,0.0,no,quite often,yes
+341,341,less than 40,Female,no,no,more than half an hr,27.0,no,no,9,6,no,always,very often,high,0.0,no,not much,no
+342,342,60 or older,Male,yes,yes,more than half an hr,21.0,no,yes,8,4,yes,occasionally,sometimes,normal,0.0,no,quite often,yes
+343,343,60 or older,Female,no,yes,one hr or more,26.0,no,no,8,6,yes,occasionally,sometimes,normal,0.0,no,not much,yes
+344,344,50-59,Female,yes,yes,none,28.0,no,no,6,3,yes,occasionally,always,high,2.0,no,not much,yes
+345,345,less than 40,Female,no,yes,one hr or more,30.0,no,no,7,3,no,occasionally,sometimes,normal,0.0,no,not much,no
+346,346,40-49,Female,yes,no,more than half an hr,17.0,no,no,7,7,no,very often,sometimes,normal,3.0,no,not much,no
+347,347,60 or older,Male,yes,no,more than half an hr,26.0,no,yes,8,3,yes,occasionally,sometimes,normal,0.0,no,quite often,yes
+348,348,40-49,Male,yes,yes,more than half an hr,21.0,no,no,6,4,yes,occasionally,sometimes,normal,0.0,no,not much,yes
+349,349,less than 40,Male,yes,no,one hr or more,20.0,no,no,7,6,no,occasionally,not at all,normal,0.0,no,not much,no
+350,350,less than 40,Female,yes,no,one hr or more,26.0,no,no,7,5,no,often,sometimes,low,0.0,no,not much,no
+351,351,less than 40,Female,yes,no,none,21.0,no,yes,8,8,no,occasionally,sometimes,normal,0.0,no,not much,no
+352,352,50-59,Male,yes,no,less than half an hr,32.0,no,no,8,4,yes,occasionally,sometimes,normal,0.0,no,not much,no
+353,353,40-49,Male,yes,no,more than half an hr,34.0,no,no,7,5,no,often,sometimes,normal,0.0,no,quite often,no
+354,354,less than 40,Male,no,no,more than half an hr,30.0,no,no,7,4,no,occasionally,sometimes,normal,0.0,no,not much,no
+355,355,50-59,Female,no,yes,more than half an hr,42.0,no,no,7,3,yes,occasionally,always,high,0.0,no,not much,no
+356,356,50-59,Male,yes,yes,more than half an hr,27.0,no,yes,7,5,no,occasionally,sometimes,high,0.0,no,not much,no
+357,357,less than 40,Female,no,no,more than half an hr,28.0,no,no,6,5,no,occasionally,sometimes,normal,0.0,no,not much,no
+358,358,40-49,Female,no,no,less than half an hr,28.0,no,no,6,4,no,occasionally,sometimes,normal,0.0,no,not much,no
+359,359,40-49,Female,no,no,less than half an hr,33.0,no,no,7,5,no,occasionally,sometimes,normal,0.0,no,not much,no
+360,360,50-59,Female,no,no,less than half an hr,33.0,no,no,7,5,yes,occasionally,sometimes,normal,0.0,no,quite often,yes
+361,361,50-59,Female,no,no,more than half an hr,28.0,no,no,7,3,no,occasionally,sometimes,normal,0.0,no,quite often,no
+362,362,less than 40,Female,no,no,less than half an hr,28.0,no,no,6,3,no,occasionally,not at all,normal,0.0,no,quite often,no
+363,363,less than 40,Female,no,no,less than half an hr,28.0,no,no,6,5,no,occasionally,sometimes,normal,0.0,no,not much,no
+364,364,40-49,Male,yes,no,more than half an hr,28.0,no,no,7,5,no,occasionally,sometimes,normal,0.0,no,quite often,no
+365,365,40-49,Male,no,no,less than half an hr,38.0,no,no,5,4,yes,occasionally,sometimes,normal,0.0,no,quite often,no
+366,366,40-49,Female,yes,no,more than half an hr,36.0,no,no,7,3,yes,occasionally,sometimes,normal,0.0,no,quite often,no
+367,367,50-59,Male,no,no,less than half an hr,38.0,no,no,6,3,yes,occasionally,sometimes,normal,0.0,no,quite often,no
+368,368,60 or older,Female,yes,no,less than half an hr,38.0,no,no,5,2,yes,occasionally,very often,high,0.0,no,quite often,yes
+369,369,60 or older,Male,no,yes,less than half an hr,33.0,no,no,6,2,yes,occasionally,very often,high,0.0,no,quite often,yes
+370,370,40-49,Male,yes,no,none,24.0,no,no,8,8,no,occasionally,sometimes,normal,0.0,no,not much,yes
+371,371,60 or older,Female,yes,yes,more than half an hr,23.0,no,no,9,9,yes,occasionally,always,high,3.0,no,quite often,yes
+372,372,60 or older,Female,yes,yes,less than half an hr,27.0,no,no,7,7,yes,occasionally,sometimes,high,3.0,no,quite often,yes
+373,373,60 or older,Male,yes,yes,more than half an hr,24.0,no,yes,7,7,yes,occasionally,always,high,0.0,no,not much,yes
+374,374,less than 40,Female,no,no,more than half an hr,19.0,no,no,7,7,no,occasionally,sometimes,normal,0.0,no,not much,no
+375,375,less than 40,Male,yes,no,one hr or more,28.0,yes,yes,7,7,no,often,not at all,normal,0.0,no,not much,yes
+376,376,less than 40,Male,no,no,more than half an hr,25.0,yes,yes,7,5,no,often,sometimes,normal,0.0,no,quite often,no
+377,377,less than 40,Male,yes,no,more than half an hr,24.0,no,no,6,5,no,occasionally,sometimes,normal,0.0,no,not much,no
+378,378,less than 40,Male,no,no,more than half an hr,18.0,no,no,6,1,no,always,sometimes,normal,0.0,no,quite often,no
+379,379,less than 40,Male,no,no,less than half an hr,20.0,no,no,8,6,no,always,not at all,normal,0.0,no,not much,no
+380,380,less than 40,Male,no,yes,one hr or more,17.0,no,no,8,0,no,occasionally,not at all,normal,0.0,no,not much,no
+381,381,less than 40,Male,no,no,more than half an hr,21.0,no,no,7,4,no,occasionally,sometimes,normal,0.0,no,quite often,no
+382,382,less than 40,Male,yes,no,less than half an hr,29.0,no,no,8,7,no,often,sometimes,low,0.0,no,not much,no
+383,383,less than 40,Male,yes,no,less than half an hr,23.0,no,no,5,5,no,occasionally,not at all,normal,0.0,no,not much,no
+384,384,less than 40,Male,no,no,one hr or more,17.0,no,no,6,6,no,often,sometimes,normal,0.0,no,not much,no
+385,385,less than 40,Female,yes,no,less than half an hr,25.0,no,no,8,4,yes,occasionally,sometimes,normal,0.0,no,not much,no
+386,386,50-59,Female,yes,no,less than half an hr,35.0,no,no,8,5,yes,often,very often,normal,2.0,no,quite often,yes
+387,387,40-49,Female,yes,yes,more than half an hr,33.0,no,no,7,2,yes,occasionally,sometimes,high,0.0,no,quite often,yes
+388,388,40-49,Female,yes,no,one hr or more,34.0,no,no,6,2,yes,always,very often,normal,0.0,no,quite often,yes
+389,389,50-59,Male,yes,yes,more than half an hr,36.0,yes,no,6,4,yes,often,very often,high,0.0,no,not much,yes
+390,390,60 or older,Male,no,no,less than half an hr,30.0,no,yes,6,2,yes,often,always,high,0.0,no,not much,yes
+391,391,less than 40,Male,yes,no,one hr or more,28.0,yes,yes,5,3,yes,always,always,normal,0.0,no,quite often,yes
+392,392,40-49,Male,yes,yes,less than half an hr,35.0,yes,yes,5,2,yes,very often,sometimes,high,0.0,no,not much,yes
+393,393,50-59,Female,no,yes,one hr or more,22.0,no,no,8,5,yes,occasionally,always,normal,3.0,no,not much,yes
+394,394,less than 40,Male,no,no,less than half an hr,30.0,no,yes,8,8,yes,occasionally,sometimes,normal,0.0,no,not much,yes
+395,395,40-49,Male,yes,yes,one hr or more,22.0,no,no,7,6,yes,occasionally,sometimes,high,0.0,no,not much,yes
+396,396,less than 40,Male,yes,no,more than half an hr,22.0,no,no,8,6,no,often,sometimes,normal,0.0,no,not much,yes
+397,397,60 or older,Male,yes,yes,more than half an hr,27.0,no,no,6,5,yes,occasionally,sometimes,high,0.0,no,quite often,yes
+398,398,60 or older,Male,no,yes,less than half an hr,27.0,no,yes,6,5,yes,occasionally,very often,high,0.0,no,not much,yes
+399,399,60 or older,Female,yes,yes,one hr or more,29.0,no,no,7,4,yes,occasionally,sometimes,high,2.0,no,quite often,yes
+400,400,50-59,Male,no,yes,one hr or more,39.0,no,no,8,6,no,occasionally,sometimes,high,0.0,no,not much,no
+401,401,50-59,Male,no,yes,less than half an hr,28.0,no,no,8,6,yes,very often,sometimes,normal,0.0,no,not much,no
+402,402,50-59,Male,no,no,one hr or more,23.0,no,no,8,6,no,occasionally,sometimes,normal,0.0,no,not much,no
+403,403,40-49,Male,no,yes,none,21.0,no,yes,10,10,no,occasionally,sometimes,high,0.0,no,not much,yes
+404,404,less than 40,Male,no,no,one hr or more,24.0,no,no,8,8,no,occasionally,sometimes,normal,0.0,no,not much,no
+405,405,less than 40,Male,no,no,less than half an hr,20.0,no,no,7,7,yes,occasionally,sometimes,low,0.0,no,not much,no
+406,406,40-49,Male,no,no,less than half an hr,26.0,yes,no,8,7,no,occasionally,sometimes,normal,0.0,no,not much,no
+407,407,less than 40,Female,no,no,less than half an hr,21.0,no,no,6,6,no,occasionally,sometimes,normal,1.0,no,not much,no
+408,408,less than 40,Female,no,no,one hr or more,22.0,no,no,8,7,no,occasionally,very often,normal,2.0,no,not much,no
+409,409,less than 40,Male,no,no,one hr or more,15.0,no,no,7,7,no,occasionally,very often,normal,0.0,no,not much,no
+410,410,less than 40,Female,no,no,more than half an hr,24.0,no,no,6,6,no,occasionally,sometimes,normal,2.0,no,quite often,no
+411,411,less than 40,Female,yes,no,one hr or more,24.0,no,no,4,4,yes,often,always,normal,3.0,no,quite often,yes
+412,412,less than 40,Female,yes,no,one hr or more,24.0,no,no,4,4,yes,often,always,normal,3.0,no,not much,yes
+413,413,less than 40,Female,no,no,more than half an hr,21.0,no,no,7,7,no,often,not at all,normal,0.0,no,not much,no
+414,414,less than 40,Female,no,no,one hr or more,20.0,no,no,6,6,no,very often,not at all,normal,0.0,no,not much,no
+415,415,50-59,Male,yes,no,one hr or more,27.0,no,no,7,7,no,very often,not at all,normal,0.0,no,not much,yes
+416,416,60 or older,Female,no,no,none,18.0,no,no,6,6,yes,occasionally,sometimes,normal,3.0,no,quite often,yes
+417,417,less than 40,Female,no,no,one hr or more,32.0,no,no,8,8,yes,occasionally,sometimes,normal,3.0,no,not much,no
+418,418,60 or older,Male,no,yes,none,26.0,no,no,4,4,yes,occasionally,not at all,high,0.0,no,not much,yes
+419,419,60 or older,Female,yes,no,more than half an hr,31.0,no,no,8,7,yes,occasionally,not at all,normal,3.0,no,not much,yes
+420,420,60 or older,Female,yes,no,none,26.0,no,no,7,7,no,occasionally,sometimes,normal,3.0,no,not much,yes
+421,421,60 or older,Male,yes,no,none,21.0,no,no,8,8,yes,occasionally,not at all,normal,0.0,no,not much,yes
+422,422,40-49,Female,yes,no,more than half an hr,28.0,no,no,8,6,yes,occasionally,always,normal,2.0,no,not much,yes
+423,423,50-59,Male,no,yes,one hr or more,24.0,no,no,8,8,yes,occasionally,sometimes,high,0.0,no,not much,yes
+424,424,40-49,Male,no,yes,more than half an hr,27.0,no,no,8,8,yes,occasionally,not at all,high,0.0,no,not much,yes
+425,425,40-49,Male,no,no,more than half an hr,21.0,no,no,6,6,yes,occasionally,sometimes,normal,0.0,no,not much,yes
+426,426,60 or older,Male,no,no,none,27.0,no,no,6,6,no,occasionally,sometimes,normal,0.0,no,not much,no
+427,427,60 or older,Male,no,no,none,24.0,no,no,6,6,no,occasionally,sometimes,normal,0.0,no,not much,yes
+428,428,50-59,Male,yes,no,one hr or more,38.0,no,yes,8,6,yes,occasionally,very often,normal,0.0,no,not much,yes
+429,429,50-59,Female,yes,yes,more than half an hr,40.0,no,no,9,5,yes,very often,sometimes,high,2.0,yes,not much,yes
+430,430,60 or older,Male,yes,no,none,35.0,no,no,5,5,no,occasionally,sometimes,high,0.0,no,quite often,yes
+431,431,60 or older,Female,yes,yes,none,24.0,no,no,4,4,yes,occasionally,always,high,3.0,no,quite often,yes
+432,432,60 or older,Male,no,no,none,18.0,no,no,5,5,no,occasionally,sometimes,normal,0.0,no,not much,no
+433,433,60 or older,Male,no,yes,less than half an hr,19.0,no,yes,6,6,yes,often,sometimes,high,1.0,no,not much,yes
+434,434,less than 40,Male,no,no,more than half an hr,30.0,yes,yes,5,5,yes,often,not at all,normal,1.0,no,not much,no
+435,435,60 or older,Female,no,yes,less than half an hr,27.0,no,no,6,6,yes,occasionally,always,high,0.0,no,quite often,yes
+436,436,50-59,Female,yes,no,none,21.0,no,no,8,8,yes,occasionally,very often,normal,0.0,no,quite often,yes
+437,437,less than 40,Male,no,no,none,24.0,no,no,10,10,no,occasionally,not at all,normal,0.0,no,not much,no
+438,438,50-59,Male,no,no,one hr or more,27.0,no,no,6,4,no,occasionally,very often,normal,0.0,no,not much,no
+439,439,40-49,Male,yes,yes,less than half an hr,26.0,no,no,10,6,yes,occasionally,very often,high,0.0,no,quite often,yes
+440,440,50-59,Female,yes,no,none,21.0,no,no,8,5,yes,occasionally,sometimes,normal,0.0,no,not much,yes
+441,441,60 or older,Male,yes,no,one hr or more,26.0,no,no,6,5,yes,occasionally,not at all,normal,0.0,no,not much,yes
+442,442,50-59,Male,yes,no,one hr or more,23.0,yes,yes,5,4,yes,occasionally,very often,normal,0.0,no,not much,yes
+443,443,less than 40,Male,yes,yes,one hr or more,26.0,yes,yes,5,4,yes,often,not at all,high,0.0,no,not much,yes
+444,444,60 or older,Female,yes,yes,less than half an hr,18.0,no,no,4,3,yes,occasionally,sometimes,high,0.0,no,not much,yes
+445,445,60 or older,Female,yes,yes,less than half an hr,19.0,no,no,9,9,yes,occasionally,always,high,4.0,no,quite often,yes
+446,446,50-59,Male,yes,no,none,24.0,no,yes,7,7,no,occasionally,always,normal,0.0,no,not much,no
+447,447,60 or older,Female,yes,yes,less than half an hr,33.0,no,no,6,5,yes,occasionally,sometimes,high,2.0,no,not much,yes
+448,448,50-59,Male,yes,yes,none,31.0,no,yes,7,6,yes,occasionally,always,high,0.0,no,not much,yes
+449,449,40-49,Female,no,no,none,23.0,no,no,7,7,no,often,very often,normal,1.0,no,not much,no
+450,450,50-59,Male,yes,no,less than half an hr,23.0,no,no,7,7,yes,occasionally,sometimes,normal,0.0,no,not much,yes
+451,451,50-59,Female,no,yes,none,20.0,no,no,7,4,yes,occasionally,sometimes,high,1.0,no,not much,yes
+452,452,60 or older,Male,no,no,more than half an hr,24.0,no,no,7,7,no,occasionally,sometimes,normal,0.0,no,quite often,yes
+453,453,less than 40,Male,no,no,less than half an hr,28.0,yes,yes,4,4,no,occasionally,very often,normal,0.0,no,not much,no
+454,454,less than 40,Female,no,no,less than half an hr,19.0,no,no,7,3,yes,occasionally,sometimes,normal,1.0,no,not much,no
+455,455,less than 40,Male,no,no,less than half an hr,22.0,no,no,6,2,no,often,not at all,normal,0.0,no,quite often,no
+456,456,less than 40,Male,no,no,one hr or more,18.0,no,no,8,4,no,occasionally,sometimes,normal,0.0,no,quite often,no
+457,457,less than 40,Male,no,no,one hr or more,21.0,no,no,7,6,yes,often,very often,normal,0.0,no,not much,no
+458,458,less than 40,Male,yes,no,one hr or more,21.0,no,no,9,6,no,very often,sometimes,normal,0.0,no,not much,no
+459,459,less than 40,Male,no,no,one hr or more,22.0,no,no,5,2,no,occasionally,sometimes,normal,0.0,no,not much,no
+460,460,less than 40,Male,no,no,one hr or more,25.0,no,no,6,6,no,occasionally,sometimes,normal,0.0,no,not much,no
+461,461,50-59,Male,no,no,less than half an hr,26.0,no,no,6,6,no,occasionally,sometimes,normal,0.0,no,not much,no
+462,462,less than 40,Male,no,yes,less than half an hr,24.0,no,no,8,8,no,occasionally,very often,normal,0.0,no,not much,no
+463,463,less than 40,Female,no,no,less than half an hr,21.0,no,no,8,8,no,occasionally,not at all,normal,3.0,yes,not much,yes
+464,464,40-49,Female,no,no,less than half an hr,22.0,no,no,8,8,no,occasionally,not at all,normal,3.0,no,not much,no
+465,465,60 or older,Male,no,no,more than half an hr,23.0,no,yes,7,6,yes,occasionally,very often,high,0.0,no,quite often,yes
+466,466,60 or older,Male,no,no,less than half an hr,28.0,no,no,8,8,yes,occasionally,not at all,normal,0.0,no,quite often,yes
+467,467,60 or older,Male,yes,yes,less than half an hr,32.0,no,no,8,8,no,often,very often,high,0.0,no,not much,yes
+468,468,40-49,Female,yes,no,less than half an hr,33.0,no,no,6,6,no,very often,very often,normal,2.0,yes,not much,yes
+469,469,50-59,Female,yes,no,less than half an hr,28.0,no,no,7,4,yes,occasionally,very often,high,0.0,no,quite often,yes
+470,470,50-59,Male,yes,yes,one hr or more,30.0,yes,yes,7,7,yes,often,always,high,0.0,no,quite often,yes
+471,471,less than 40,Female,no,no,more than half an hr,27.0,no,no,9,6,no,always,very often,high,0.0,no,not much,no
+472,472,less than 40,Female,yes,no,more than half an hr,18.0,no,no,7,3,yes,often,very often,normal,0.0,no,not much,no
+473,473,less than 40,Male,yes,no,more than half an hr,22.0,no,no,7,5,no,often,very often,normal,0.0,no,not much,no
+474,474,60 or older,Female,no,yes,one hr or more,26.0,no,no,8,6,yes,occasionally,sometimes,normal,0.0,no,not much,yes
+475,475,50-59,Female,yes,yes,none,28.0,no,no,6,3,yes,occasionally,always,high,2.0,no,not much,yes
+476,476,less than 40,Female,yes,no,more than half an hr,23.0,no,yes,6,6,no,often,very often,normal,0.0,no,not much,no
+477,477,40-49,Female,yes,no,more than half an hr,17.0,no,no,7,7,no,very often,sometimes,normal,3.0,no,not much,no
+478,478,50-59,Female,yes,no,less than half an hr,24.0,no,no,8,5,yes,occasionally,sometimes,normal,2.0,no,not much,no
+479,479,60 or older,Male,yes,no,more than half an hr,26.0,no,yes,8,3,yes,occasionally,sometimes,normal,0.0,no,quite often,yes
+480,480,40-49,Male,yes,yes,more than half an hr,21.0,no,no,6,4,yes,occasionally,sometimes,normal,0.0,no,not much,yes
+481,481,40-49,Female,yes,yes,less than half an hr,26.0,no,no,7,4,no,occasionally,very often,high,0.0,no,quite often,no
+482,482,less than 40,Male,no,no,more than half an hr,23.0,no,no,6,6,no,occasionally,sometimes,low,0.0,no,not much,no
+483,483,less than 40,Female,yes,no,one hr or more,26.0,no,no,7,5,no,often,sometimes,low,0.0,no,not much,no
+484,484,less than 40,Male,no,no,more than half an hr,24.0,yes,yes,7,6,no,often,sometimes,normal,0.0,no,not much,no
+485,485,40-49,Male,yes,no,more than half an hr,34.0,no,no,7,5,no,often,sometimes,normal,0.0,no,quite often,no
+486,486,50-59,Female,no,yes,more than half an hr,45.0,no,no,7,3,yes,occasionally,always,high,0.0,no,not much,yes
+487,487,less than 40,Male,no,no,one hr or more,23.0,no,no,7,5,no,occasionally,sometimes,normal,0.0,no,not much,no
+488,488,50-59,Male,yes,yes,more than half an hr,27.0,no,yes,7,5,no,occasionally,sometimes,high,0.0,no,not much,no
+489,489,40-49,Female,no,no,one hr or more,25.0,no,no,5,4,no,occasionally,sometimes,normal,0.0,no,not much,no
+490,490,less than 40,Female,no,no,more than half an hr,28.0,no,no,6,5,no,occasionally,sometimes,normal,0.0,no,not much,no
+491,491,40-49,Female,no,no,less than half an hr,33.0,no,no,7,5,no,occasionally,sometimes,normal,0.0,no,not much,no
+492,492,50-59,Female,no,no,more than half an hr,28.0,no,no,7,3,no,occasionally,sometimes,normal,0.0,no,quite often,no
+493,493,40-49,Male,yes,no,more than half an hr,28.0,no,no,7,5,no,occasionally,sometimes,normal,0.0,no,quite often,no
+494,494,60 or older,Female,yes,no,less than half an hr,38.0,no,no,5,2,yes,occasionally,very often,high,0.0,no,quite often,yes
+495,495,60 or older,Male,no,yes,less than half an hr,33.0,no,no,6,2,yes,occasionally,very often,high,0.0,no,quite often,yes
+496,496,40-49,Male,yes,no,none,25.0,no,no,8,8,no,occasionally,sometimes,normal,0.0,no,not much,yes
+497,497,60 or older,Female,yes,yes,more than half an hr,23.0,no,no,9,9,yes,occasionally,always,high,3.0,no,quite often,yes
+498,498,60 or older,Female,yes,yes,less than half an hr,27.0,no,no,7,7,yes,occasionally,sometimes,high,3.0,no,quite often,yes
+499,499,60 or older,Male,yes,yes,more than half an hr,24.0,no,yes,7,7,yes,occasionally,always,high,0.0,no,not much,yes
+500,500,less than 40,Female,yes,no,none,18.0,no,no,8,8,yes,often,sometimes,normal,0.0,no,not much,no
+501,501,less than 40,Male,yes,no,one hr or more,28.0,yes,yes,7,7,no,often,not at all,normal,0.0,no,not much,yes
+502,502,less than 40,Male,no,no,less than half an hr,25.0,no,yes,7,7,no,often,sometimes,normal,0.0,no,not much,no
+503,503,less than 40,Male,no,no,less than half an hr,24.0,yes,yes,10,7,no,always,always,normal,0.0,no,not much,no
+504,504,less than 40,Male,yes,yes,more than half an hr,27.0,no,no,7,5,no,occasionally,sometimes,high,0.0,no,not much,no
+505,505,less than 40,Male,no,no,none,25.0,yes,yes,10,10,no,often,very often,normal,0.0,no,quite often,no
+506,506,less than 40,Male,no,no,less than half an hr,28.0,no,no,8,8,yes,occasionally,sometimes,normal,0.0,no,quite often,no
+507,507,less than 40,Female,yes,no,less than half an hr,21.0,no,no,8,7,no,often,sometimes,normal,0.0,no,not much,no
+508,508,less than 40,Male,no,no,one hr or more,25.0,no,no,6,6,no,always,always,normal,0.0,no,not much,no
+509,509,less than 40,Male,yes,yes,less than half an hr,28.0,no,no,6,2,no,occasionally,not at all,high,0.0,no,quite often,no
+510,510,less than 40,Male,no,no,less than half an hr,20.0,no,no,8,6,no,always,not at all,normal,0.0,no,not much,no
+511,511,less than 40,Male,yes,no,less than half an hr,20.0,no,no,7,4,no,often,sometimes,normal,0.0,no,quite often,no
+512,512,less than 40,Male,yes,no,less than half an hr,23.0,no,no,5,5,no,always,sometimes,normal,0.0,no,not much,no
+513,513,less than 40,Male,yes,no,less than half an hr,23.0,no,no,5,5,no,occasionally,not at all,normal,0.0,no,not much,no
+514,514,less than 40,Female,no,no,none,19.0,no,no,9,5,no,very often,sometimes,normal,2.0,no,not much,no
+515,515,less than 40,Male,no,no,less than half an hr,23.0,yes,yes,8,6,no,very often,sometimes,normal,0.0,no,not much,no
+516,516,50-59,Female,yes,no,less than half an hr,35.0,no,no,8,5,yes,often,very often,normal,2.0,no,quite often,yes
+517,517,40-49,Female,yes,yes,more than half an hr,33.0,no,no,7,2,yes,occasionally,sometimes,high,0.0,no,quite often,yes
+518,518,40-49,Female,yes,no,one hr or more,34.0,no,no,6,2,yes,always,very often,normal,0.0,no,quite often,yes
+519,519,50-59,Male,yes,yes,more than half an hr,36.0,yes,no,6,4,yes,often,very often,high,0.0,no,not much,yes
+520,520,60 or older,Male,no,no,less than half an hr,30.0,no,yes,6,2,yes,often,always,high,0.0,no,not much,yes
+521,521,less than 40,Male,yes,no,one hr or more,28.0,yes,yes,5,3,yes,always,always,normal,0.0,no,quite often,yes
+522,522,40-49,Male,yes,yes,less than half an hr,35.0,yes,yes,5,2,yes,very often,sometimes,high,0.0,no,not much,yes
+523,523,50-59,Female,no,yes,one hr or more,22.0,no,no,8,5,yes,occasionally,always,normal,3.0,no,not much,yes
+524,524,less than 40,Male,no,no,less than half an hr,30.0,no,yes,8,8,yes,occasionally,sometimes,normal,0.0,no,not much,yes
+525,525,40-49,Male,yes,yes,one hr or more,22.0,no,no,7,6,yes,occasionally,sometimes,high,0.0,no,not much,yes
+526,526,less than 40,Male,yes,no,more than half an hr,25.0,no,no,8,6,no,often,sometimes,normal,0.0,no,not much,yes
+527,527,60 or older,Male,yes,yes,more than half an hr,27.0,no,no,6,5,yes,occasionally,sometimes,high,0.0,no,quite often,yes
+528,528,60 or older,Female,yes,yes,one hr or more,30.0,no,no,7,4,yes,occasionally,sometimes,high,2.0,no,quite often,yes
